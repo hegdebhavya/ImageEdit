@@ -9,3 +9,13 @@ CloudWatch.
 ## Use case
 
 Similar function can be used to watermark any image uploaded to S3 bucket.
+
+### Input Image:
+
+![image](https://user-images.githubusercontent.com/85700971/197364149-49fc6e41-161b-419a-9a76-ca3ead7d9498.png)
+
+
+### Output Image:
+
+
+![image](https://user-images.githubusercontent.com/85700971/197364168-ac4562a1-713a-40bb-8cbc-2952c745e06b.png)
