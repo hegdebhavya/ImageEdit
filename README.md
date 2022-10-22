@@ -19,3 +19,7 @@ Similar function can be used to watermark any image uploaded to S3 bucket.
 
 
 ![image](https://user-images.githubusercontent.com/85700971/197364168-ac4562a1-713a-40bb-8cbc-2952c745e06b.png)
+
+### CloudWatch Log:
+
+![image](https://user-images.githubusercontent.com/85700971/197364243-c582c404-4dc0-4dd9-bbe4-1ec360b81a49.png)
