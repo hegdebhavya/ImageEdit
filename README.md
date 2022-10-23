@@ -1,4 +1,4 @@
-# Serverless_Application
+# Serverless_Application-ImageEdit
 
 Deployed a simple serverless web application using lambda function which
 edits any new image uploaded to source S3 bucket by random quotes and saves it in
